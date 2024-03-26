@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-### Via `go install` (Recommended)
+### Install [Air](https://github.com/cosmtrek/air) Via `go install` (Recommended)
 
 With go 1.22 or higher:
 
